@@ -1,7 +1,7 @@
 # shashankraok.github.io
-🏎️ Shashank Kanuganti
+🏎️ Shashank rao Kanuganti
 
-CAE Analyst | Simulation Engineer | Automation Enthusiast
+CAE Analyst | Vehicle Crash Simulation Engineer | Automation Enthusiast
 
 🌍 Based in Munich, Germany
 💻 Passionate about combining Finite Element Analysis (FEA), Python automation, and AI to accelerate engineering simulation workflows.
