@@ -70,9 +70,7 @@ Git · VS Code · Ansys Workbench · Catia · SolidWorks
 
 📫 Connect With Me
 
-🌐 LinkedIn
-
-📧 shashankkanuganti@gmail.com
+📧 kanugantishashankrao@gmail.com
 
 📍 Munich, Germany
 
