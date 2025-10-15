@@ -1,77 +1,80 @@
-# shashankraok.github.io
-🏎️ Shashank rao Kanuganti
+<h1 align="center">🏎️ Shashank Rao Kanuganti</h1>
 
-CAE Analyst | Vehicle Crash Simulation Engineer | Automation Enthusiast
+<p align="center">
+<b>CAE Analyst | Vehicle Crash Simulation Engineer | Automation Enthusiast</b><br>
+🌍 Based in Munich, Germany · 💻 Passionate about FEA, Python automation, and AI-driven simulation workflows
+</p>
 
-🌍 Based in Munich, Germany
-💻 Passionate about combining Finite Element Analysis (FEA), Python automation, and AI to accelerate engineering simulation workflows.
+---
 
-🚀 About Me
+### 🚀 About Me
+I’m a **Automotive Engineer** specialized in **Vehicle Safety and Numerical Simulation**, with hands-on experience in:
+- 🚗 Crash & Safety Analysis (**LS-DYNA**)
+- 🦵 Pedestrian Protection (**FlexPLI, Upper Legform**)
+- ⚙️ Automating Preprocessing in **ANSA** using **Python**
+- 🧩 Simulation Data Management and Optimization
+- 🤖 AI/ML Applications in FEM
 
-I’m a Mechanical Engineer specialized in Vehicle Safety and Numerical Simulation, with hands-on experience in:
+Currently, I’m exploring how **Artificial Intelligence** and **Automation** can transform simulation workflows — from preprocessing and meshing to result interpretation.
 
-Crash & Safety Analysis (LS-DYNA)
+---
 
-Pedestrian Protection (FlexPLI, Upper Legform)
+### 🧠 What I Work On
+- 🔹 Developing Python scripts for **ANSA automation** (meshing, model setup, post-processing)  
+- 🔹 Creating efficient **CAE pipelines** integrating **LS-DYNA**, **ANSA**, and **Python**  
+- 🔹 Exploring **AI-assisted simulation** and **data-driven engineering**  
+- 🔹 Building tools for **automated report generation** and **simulation quality checks**
 
-Automating Preprocessing in ANSA with Python
+---
 
-Simulation Data Management and Optimization
+### ⚙️ Tech Stack
 
-AI/ML Applications in FEM
+#### 🧩 Simulation
+`ANSA` · `LS-DYNA` · `HyperMesh` · `Abaqus` · `Nastran`  
 
-Currently, I’m exploring how Artificial Intelligence and Automation can transform traditional simulation workflows — from preprocessing and meshing to result interpretation.
+#### 💡 Programming & Automation
+`Python` · `MATLAB` · `Bash` · `PyAnsa` · `Pandas` · `NumPy` · `Matplotlib`  
 
-🧠 What I Work On
+#### 🤖 Machine Learning
+`scikit-learn` · `PyTorch` · `TensorFlow` · `Jupyter`  
 
-🔹 Developing Python scripts for ANSA automation (meshing, model setup, and post-processing)
+#### 🧰 Tools
+`Git` · `VS Code` · `Ansys Workbench` · `Catia` · `SolidWorks`
 
-🔹 Creating efficient CAE pipelines integrating LS-DYNA, ANSA, and Python
+---
 
-🔹 Exploring AI-assisted simulation and data-driven engineering
+### 📂 Featured Projects
+| Project | Description |
+|----------|--------------|
+| 🔹 [**ANSA-Mesh-Automation**](#) | Python scripts to automate meshing and preprocessing in ANSA |
+| 🔹 [**Crash Simulation Workflow Automation**](#) | End-to-end pipeline for LS-DYNA setup and result extraction |
+| 🔹 [**AI in FEM**](#) | Machine learning models for simulation prediction and optimization |
 
-🔹 Building tools for automated report generation and simulation quality checks
+---
 
-⚙️ Tech Stack
-🧩 Simulation
+### 🎯 Goals for 2025
+- 🚗 Integrate **AI-assisted mesh optimization**  
+- 📊 Develop open-source tools for **simulation data analytics**  
+- 🧠 Publish research on **AI in Vehicle Safety Simulation**  
+- 🔄 Automate complete **pre-to-post CAE workflows**
 
-ANSA · LS-DYNA · HyperMesh · Abaqus · Nastran
+---
 
-💡 Programming & Automation
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankraok&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankraok&layout=compact&theme=radical" height="160"/>
+</p>
 
-Python · MATLAB · Bash · PyAnsa · Pandas · NumPy · Matplotlib
+---
 
-🤖 Machine Learning
+### 📫 Connect With Me
+<p align="center">
+📧 <a href="mailto:kanugantishashankrao@gmail.com">kanugantishashankrao@gmail.com</a> · 
+📍 Munich, Germany · 
+💼 <a href="https://www.linkedin.com/in/shashank-kanuganti">LinkedIn</a>
+</p>
 
-scikit-learn · PyTorch · TensorFlow · Jupyter
+---
 
-🧰 Tools
-
-Git · VS Code · Ansys Workbench · Catia · SolidWorks
-
-📂 Featured Projects
-
-🔹 ANSA-Mesh-Automation
- — Python scripts to automate meshing and preprocessing in ANSA
-🔹 Crash Simulation Workflow Automation
- — End-to-end pipeline for LS-DYNA setup and result extraction
-🔹 AI in FEM
- — Exploratory models applying machine learning for simulation prediction and optimization
-
-🎯 Goals for 2025
-
-🚗 Integrate AI-assisted mesh optimization
-
-📊 Develop open-source tools for simulation data analytics
-
-🧠 Publish research on AI in Vehicle Safety Simulation
-
-🔄 Automate complete pre-to-post CAE workflows
-
-📫 Connect With Me
-
-📧 kanugantishashankrao@gmail.com
-
-📍 Munich, Germany
-
-💬 "Engineering meets intelligence — automating tomorrow’s simulations, today."
+<p align="center"><i>“Engineering meets intelligence — automating tomorrow’s simulations, today.”</i></p>
